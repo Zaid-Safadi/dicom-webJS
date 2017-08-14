@@ -1,7 +1,7 @@
 ***
 # Announcement
 
-**The dicom-webJS project will be moved into its own GitHub Organization account. This repository is provided here for reference.**
+**The dicom-webJS project is migrating to its [own GitHub Organization account](https://github.com/DICOMcloud/DICOMweb-js). This repository is provided here for reference.**
 ***
 
 # dicom-webJS
